@@ -81,11 +81,11 @@ const questions = [
         ]
     },
     {
-        question: "Who is the most beautiful girl in the world??",
+        question: "Who is the most beautiful girl in the world?",
         answers: [
             {text: "ALDILA JASMINE BANG", correct: true},
             {text: "ALDILA JASMINE BANG", correct: true},
-            {text: "Alexander Fleming", correct: true},
+            {text: "ALDILA JASMINE BANG", correct: true},
             {text: "ALDILA JASMINE BANG", correct: true},
         ]
     }
