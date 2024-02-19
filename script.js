@@ -81,12 +81,12 @@ const questions = [
         ]
     },
     {
-        question: "Who discovered penicillin?",
+        question: "Who is the most beautiful girl in the world??",
         answers: [
-            {text: "Marie Curie", correct: false},
-            {text: "Albert Einstein", correct: false},
+            {text: "ALDILA JASMINE BANG", correct: true},
+            {text: "ALDILA JASMINE BANG", correct: true},
             {text: "Alexander Fleming", correct: true},
-            {text: "Isaac Newton", correct: false},
+            {text: "ALDILA JASMINE BANG", correct: true},
         ]
     }
 ];
