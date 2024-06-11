@@ -80,15 +80,16 @@ const questions = [
             {text: "13", correct: false},
         ]
     },
-    {
-        question: "Who is the most beautiful girl in the world?",
-        answers: [
-            {text: "ALDILA JASMINE BANG", correct: true},
-            {text: "ALDILA JASMINE BANG", correct: true},
-            {text: "ALDILA JASMINE BANG", correct: true},
-            {text: "ALDILA JASMINE BANG", correct: true},
-        ]
-    }
+{
+    "question": "What is the cube root of 27?",
+    "answers": [
+        {"text": "2", "correct": false},
+        {"text": "3", "correct": true},
+        {"text": "4", "correct": false},
+        {"text": "5", "correct": false}
+    ]
+}
+
 ];
 
 const questionElement = document.getElementById("question");
